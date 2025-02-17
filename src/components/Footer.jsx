@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-4 text-gray-300">
       <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">REACT.</h1>
+        <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">CryptoData..</h1>
         <p className="py-2">
           blame belongs to those who fail in their duty through weakness of
           will,In a when nothing prevents our being able to do what we like best

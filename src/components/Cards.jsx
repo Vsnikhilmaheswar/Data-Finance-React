@@ -12,7 +12,7 @@ function Cards() {
             src={Single}
             alt=""
           />
-          <h2 className="text-2xl font-bold text-center py-8"> Single User</h2>
+          <h2 className="text-2xl font-bold text-center py-8"> Basic Plan </h2>
           <p className="text-center text-4xl text-bold">$149</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b border-gray-300 mx-8 mt-8 ">
@@ -34,7 +34,7 @@ function Cards() {
             src={double}
             alt=""
           />
-          <h2 className="text-2xl font-bold text-center py-8"> Double User</h2>
+          <h2 className="text-2xl font-bold text-center py-8"> Pro Plan</h2>
           <p className="text-center text-4xl text-bold">$149</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b border-gray-300 mx-8 mt-8 ">
@@ -56,7 +56,7 @@ function Cards() {
             src={triple}
             alt=""
           />
-          <h2 className="text-2xl font-bold text-center py-8"> Single User</h2>
+          <h2 className="text-2xl font-bold text-center py-8">Enterprise Plan</h2>
           <p className="text-center text-4xl text-bold">$149</p>
           <div className="text-center font-medium">
             <p className="py-2 border-b border-gray-300 mx-8 mt-8 ">
